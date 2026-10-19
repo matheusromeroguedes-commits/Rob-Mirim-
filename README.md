@@ -13,7 +13,16 @@ Este projeto tem como objetivo desenvolver um  utilizando componentes eletrônic
 - Instalação dos componentes eletrônicos.
 - Programação e testes.
 - Ajustes e conclusão
-
+# Materiais Utilizados 
+- Escova de dentes
+- Fita dupla-face
+- Fita adesiva 
+- Tesoura
+- Alicate
+- Pilha de controle de portão de 12V (Modelo A23)
+- Motor de vibração de celular
+- Fios elétricos
+- Arame 
 # Autores 
 - Matheus Guedes
 - Victor Garcia
