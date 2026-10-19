@@ -13,3 +13,10 @@ Este projeto tem como objetivo desenvolver um  utilizando componentes eletrônic
 - Instalação dos componentes eletrônicos.
 - Programação e testes.
 - Ajustes e conclusão
+
+# Autores 
+- Matheus Guedes
+- Victor Garcia
+- Luccena
+- Eduardo
+- Felipe Dodo
