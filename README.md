@@ -13,7 +13,9 @@ Este projeto tem como objetivo desenvolver um  utilizando componentes eletrônic
 - Instalação dos componentes eletrônicos.
 - Programação e testes.
 - Ajustes e conclusão
+
 # Materiais Utilizados 
+![image alt](https://github.com/matheusromeroguedes-commits/Rob-Mirim-/blob/5324c10b9aa30ef92c185ffe3bc2cd1bafacccf1/robo%20mirim%20.jpg)
 - Escova de dentes
 - Fita dupla-face
 - Fita adesiva 
@@ -23,6 +25,7 @@ Este projeto tem como objetivo desenvolver um  utilizando componentes eletrônic
 - Motor de vibração de celular
 - Fios elétricos
 - Arame 
+
 # Autores 
 - Matheus Guedes
 - Victor Garcia
