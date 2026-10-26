@@ -1,5 +1,6 @@
 # Robô Mirim
 Este projeto tem como objetivo desenvolver um  utilizando componentes eletrônicos reaproveitados, explorando conceitos de eletrônica, programação e mecânica.
+![image alt](https://github.com/matheusromeroguedes-commits/Rob-Mirim-/blob/2bddd4dfceee3e0738eabea0c68382b19450a4bc/Captura%20de%20tela%202026-10-26%20145159.png)
 
 # Objetivos 
 - Reaproveitar componentes de sucata eletrônica.
